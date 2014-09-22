@@ -1,0 +1,2 @@
+./pharo-vm/pharo -vm-display-null -vm-sound-null --memory 512m Pharo.image --no-quit
+

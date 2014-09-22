@@ -1,0 +1,38 @@
+alsa-lib.i686           1.0.22-3.el6    @base                                   
+alsa-lib-devel.i686     1.0.22-3.el6    @base                                   
+elfutils-libelf.i686    0.152-1.el6     @base                                   
+expat.i686              2.0.1-11.el6_2  @base                                   
+freetype.i686           2.3.11-14.el6_3.1
+freetype-devel.i686     2.3.11-14.el6_3.1
+glibc.i686              2.12-1.132.el6  @base                                   
+glibc-devel.i686        2.12-1.132.el6  @base                                   
+keyutils-libs.i686      1.4-4.el6       @base                                   
+krb5-libs.i686          1.10.3-10.el6_4.6
+libICE.i686             1.0.6-1.el6     @base                                   
+libICE-devel.i686       1.0.6-1.el6     @base                                   
+libSM.i686              1.2.1-2.el6     @base                                   
+libSM-devel.i686        1.2.1-2.el6     @base                                   
+libX11.i686             1.5.0-4.el6     @base                                   
+libX11-devel.i686       1.5.0-4.el6     @base                                   
+libXau.i686             1.0.6-4.el6     @base                                   
+libXdamage.i686         1.1.3-4.el6     @base                                   
+libXext.i686            1.3.1-2.el6     @base                                   
+libXfixes.i686          5.0-3.el6       @base                                   
+libXxf86vm.i686         1.1.2-2.el6     @base                                   
+libcom_err.i686         1.41.12-18.el6  @base                                   
+libdrm.i686             2.4.45-2.el6    @base                                   
+libgcc.i686             4.4.7-4.el6     @base                                   
+libpciaccess.i686       0.13.1-2.el6    @base                                   
+libselinux.i686         2.0.94-5.3.el6_4.1
+libstdc++.i686          4.4.7-4.el6     @base                                   
+libuuid.i686            2.17.2-12.14.el6
+libxcb.i686             1.8.1-1.el6     @base                                   
+mesa-dri-drivers.i686   9.2-0.5.el6_5.2 @updates                                
+mesa-dri-filesystem.i686
+mesa-libGL.i686         9.2-0.5.el6_5.2 @updates                                
+mesa-libGL-devel.i686   9.2-0.5.el6_5.2 @updates                                
+mesa-private-llvm.i686  3.3-0.3.rc3.el6 @base                                   
+nss-softokn-freebl.i686 3.14.3-9.el6    @base                                   
+openssl.i686            1.0.1e-16.el6_5.4
+openssl-devel.i686      1.0.1e-16.el6_5.4
+zlib.i686               1.2.3-29.el6    @base                                   

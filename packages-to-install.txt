@@ -36,3 +36,5 @@ nss-softokn-freebl.i686 3.14.3-9.el6    @base
 openssl.i686            1.0.1e-16.el6_5.4
 openssl-devel.i686      1.0.1e-16.el6_5.4
 zlib.i686               1.2.3-29.el6    @base                                   
+SDL2.i686
+SDL2-devel.i686
